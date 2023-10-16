@@ -4,11 +4,11 @@
 
 ###
 
-👩‍💻  About Me:
 <p align="left">
+👩‍💻  About Me:<br>
   - 🔭 Studying Smart IoT Systems: Embedded IoT Devices at <a href="https://www.metropolia.fi/en?gad_source=1&_gl=1*ix24n*_up*MQ..&gclid=CjwKCAjwvrOpBhBdEiwAR58-3O10veZIEWsmmNJnT6TlgR3yjKIPpL8pZN-IVQI9vCjGoZdl3Fms7xoCZ6IQAvD_BwE">Metropolia</a><br>
-  - 📚 Currently learning C Programming and interdevice connectivity<br>
-  - ⚡ In my free time I'm an active member of <a href="https://www.metropolia-motorsport.net/">Metropolia Motorsport</a>
+  - 📚 Currently learning C Programming<br>
+  - ⚡ In my free time I like to play sports🏉
 </p>
 
 ###
@@ -24,14 +24,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=murphyslemon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murphyslemon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <a www.linkedin.com/in/francesco-natanni-388ba5254">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
-  </a>
 </div>
 
 ###
