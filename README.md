@@ -1,15 +1,22 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" />
-</div>
+<p align="left">👋 Hi, I’m Frank — interested in IoT, embedded systems, and Kubernetes deployments.</p>
 
-###
+<ul align="left" style="list-style-type: none; padding-left: 0;">
+  <li>
+    🔭 Bachelor of Engineering in Information Technology<br>
+    <span style="margin-left: 1.8em;">
+      Major: Smart IoT Systems
+    </span>
+  </li>
+  <li>
+    📚 Currently tinkering with sensor-to-cloud systems, IoT networks, and Kubernetes-based deployments
+  </li>
+  <li>
+    ⚡ In my free time I like getting active 🏉 🚴
+  </li>
+</ul>
 
-<p align="left">
-👩‍💻  About Me:<br>
-  - 🔭 Studying Smart IoT Systems: Embedded IoT Devices at <a href="https://www.metropolia.fi/en?gad_source=1&_gl=1*ix24n*_up*MQ..&gclid=CjwKCAjwvrOpBhBdEiwAR58-3O10veZIEWsmmNJnT6TlgR3yjKIPpL8pZN-IVQI9vCjGoZdl3Fms7xoCZ6IQAvD_BwE">Metropolia</a><br>
-  - 📚 Currently learning about sensor-to-cloud data transmission, with a focus on embedded systems and IoT networking<br>
-  - ⚡ In my free time I like to getting active🏉	🚴
-</p>
+
+<p align="left">📫 Find me on <a href="https://www.linkedin.com/in/franknat388/">LinkedIn</a></p>
 
 ###
 
